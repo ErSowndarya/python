@@ -1,4 +1,4 @@
-def Temp3():
+def ReturnThreeInteger():
     return 1,2,3
-a,b,c=Temp3()
+a,b,c=ReturnThreeInteger()
 print(c)
