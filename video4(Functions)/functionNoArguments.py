@@ -1,8 +1,8 @@
-#can a fuction have no arguments
-def Temp():
+#can a function have no arguments
+def PrintHello():
     print("Hello")
-Temp()
+PrintHello()
 
-Temp()
+PrintHello()
 
-Temp()
+PrintHello()
