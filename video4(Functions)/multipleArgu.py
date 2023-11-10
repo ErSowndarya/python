@@ -1,5 +1,5 @@
 #passing multiple arguments in a function call
-def Q(A,B):
+def ReturnMultipleInteger(A,B):
     return int (A//B)
 
-print(Q(4,2))
+print(ReturnMultipleInteger(4,2))
