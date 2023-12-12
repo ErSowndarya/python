@@ -1,0 +1,12 @@
+A=[1,2]
+B=A
+print(A)
+A=[1,2]
+B=A[:]
+print(B)
+A=[1,2]
+B=A[:2]
+print(B)
+A=[1,2]
+B=A[:1]
+print(B)
