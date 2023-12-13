@@ -16,4 +16,4 @@ del CreateADictionary[0]
 X=CreateADictionary.pop('sownd123 delli@hotmail')
 print(X, CreateADictionary)
 
-print(CreateADictionary)
+print(CreateADictionary)    
