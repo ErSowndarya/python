@@ -12,3 +12,5 @@ if(vehicle%2==0 and month%2==0):
     print("Take your vehicle out on this day!")
 else:
     print("Do not take your vehicle out on this day!")
+
+    
