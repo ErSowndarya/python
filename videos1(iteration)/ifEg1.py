@@ -1,4 +1,4 @@
-#used if statement continuously runs all if statement 
+#used if statement-continuously runs all if statement 
 
 #assign
 light="blue"

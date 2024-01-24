@@ -5,5 +5,6 @@ while(i<=200):
     #print the i value, "end" determines print in single line
     print(i,end=",")
     #i=10+10=20, go to next step.
-    i=i+10
+    #i=i+10
+    i+=10
     #when the iteration is false, loop will end.

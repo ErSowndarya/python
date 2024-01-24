@@ -2,7 +2,7 @@
 #display numbers 10 to 1 descending in the second line
 a=1
 b=10
-while a<=20:
+while a<=10:
     #End=""(display numbers in the same line)
     print(a, end="")
     #another method determines increment is a+=1 or a=a+1
